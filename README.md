@@ -1,4 +1,5 @@
-#ExtendedTXT
+# ExtendedTXT
+
 ExtendedTXT is yet another lightweight markup language.
 The underlying object-oriented model makes it possible to modify it based on your needs.
 
